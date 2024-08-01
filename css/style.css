@@ -64,7 +64,7 @@ img {
 /* Header */
 .webp {
   background-image: url(../img/banner.webp);
-  height: 60rem;
+  height: 50rem;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
